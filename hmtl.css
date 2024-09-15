@@ -1,0 +1,66 @@
+.orange{
+    color: orange;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+
+.blue {
+    color: blue;
+}
+
+.round{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 50%;
+}
+
+.h1 {
+    border-radius: 8px;
+    border-color: black;
+    background-color: grey;
+    margin-bottom: 10px;
+}
+
+
+
+button{
+    background-color: purple;
+    border: none;
+    padding: 10px 50px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+button:hover{
+    background-color: blueviolet;
+}
+
+button:active{
+    background-color: violet;
+}
+
+.arial{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Times{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.h1:nth-child(1){
+    width: 230px;
+}
+
+.second {
+    width: 180px;
+}
+
+.third {
+    width: 96px;
+}
+
